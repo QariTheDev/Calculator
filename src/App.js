@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <Navbar title="Calculator" />
+      <Navbar title="DigiCalc" />
       <Container title="Calculator" />
       <Footer title="Qari Sahab" />
     </>
